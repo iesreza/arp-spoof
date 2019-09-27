@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52a56ac2-2e10-4a9a-ab44-4400cb94c73d" name="ivo" url="http://192.168.10.34">
+        <fileTransfer host="192.168.10.34" port="22" rootFolder="/home/ies/go/src/arp-spoof" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
